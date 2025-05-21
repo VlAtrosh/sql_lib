@@ -105,3 +105,7 @@ CREATE TABLE book_categories (
     FOREIGN KEY (book_id) REFERENCES books(book_id) ON DELETE CASCADE,
     FOREIGN KEY (category_id) REFERENCES categories(category_id) ON DELETE CASCADE
 );
+
+
+![Снимок экрана (241)](https://github.com/user-attachments/assets/321c91ee-97e1-4f1e-9315-d5a5df4a0e28)
+
