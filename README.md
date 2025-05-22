@@ -40,3 +40,10 @@ AddAuthor:Добавляет нового автора в базу данных,
 Book:Представляет запись о книге с полями: ID, название, ISBN, цена, издатель и дата публикации.
 BookWithAuthor:Наследует класс Book и добавляет поля, относящиеся к автору книги (ID автора, имя и фамилия).
 Author:Хранит информацию об авторе (ID, имя, фамилия и биография).
+![Снимок экрана (246)](https://github.com/user-attachments/assets/3dc0e9f2-01e0-4293-86d5-784ad5ea7ca0)
+![Снимок экрана (247)](https://github.com/user-attachments/assets/74de47c0-887c-4692-9279-5b41d42c85e4)
+![Снимок экрана (249)](https://github.com/user-attachments/assets/dd17e59a-76b6-4ddf-bf6b-99c072226027)
+
+
+
+
